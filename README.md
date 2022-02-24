@@ -7,6 +7,11 @@
 - 🎮 | Noob Gamer
 - 🖖 | Nerd
 
+### More abou me
+https://developers.google.com/profile/u/VagnerSantosAraujo
+https://pt.stackoverflow.com/users/48853/vagner-santos-araujo
+https://www.duolingo.com/profile/VagnerSA
+
 ### And...
 
 <div style="display: inline_block"><br>
