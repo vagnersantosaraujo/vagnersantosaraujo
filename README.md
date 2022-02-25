@@ -8,9 +8,10 @@
 - 🖖 | Nerd
 
 ### More abou me
-https://developers.google.com/profile/u/VagnerSantosAraujo
-https://pt.stackoverflow.com/users/48853/vagner-santos-araujo
-https://www.duolingo.com/profile/VagnerSA
+- https://developers.google.com/profile/u/VagnerSantosAraujo
+- https://pt.stackoverflow.com/users/48853/vagner-santos-araujo
+- https://www.duolingo.com/profile/VagnerSA
+- https://support.grasshopper.app/u/vagnersantosaraujo
 
 ### And...
 
