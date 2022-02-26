@@ -12,6 +12,9 @@
 - https://pt.stackoverflow.com/users/48853/vagner-santos-araujo
 - https://www.duolingo.com/profile/VagnerSA
 - https://support.grasshopper.app/u/vagnersantosaraujo
+- facebook.com/vagnersantosaraujo
+- https://steamcommunity.com/id/vagnersantosaraujo/
+- https://www.reddit.com/user/Loud-Trust-6482/
 
 ### And...
 
