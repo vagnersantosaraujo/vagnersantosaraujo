@@ -1,0 +1,30 @@
+{
+  "name": "vagnersantosaraujo",
+  "version": "1.0.0",
+  "description": "Primeiro projeto pessoal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vagnersantosaraujo/vagnersantosaraujo.git"
+  },
+  "keywords": [
+    "v49n3r4r4uj0"
+  ],
+  "author": "Vagner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vagnersantosaraujo/vagnersantosaraujo/issues"
+  },
+  "homepage": "https://github.com/vagnersantosaraujo/vagnersantosaraujo#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "firebase": "^9.8.1"
+  },
+  "devDependencies": {
+    "webpack": "^5.72.1",
+    "webpack-cli": "^4.9.2"
+  }
+}
