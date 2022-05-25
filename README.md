@@ -3,8 +3,8 @@
 - 🚀 | Science
 - 🎬 | SiFi
 - 📊 | Buy and hold
-- 🥋 | Krav maga Poser
-- 🎮 | Noob Gamer
+- 🥋 | Krav magá
+- 🎮 | Third person game
 - 🖖 | Nerd
 
 ### More abou me
